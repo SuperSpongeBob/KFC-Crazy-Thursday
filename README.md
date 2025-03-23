@@ -25,5 +25,13 @@ public class DemoApplication {
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
     }
-
 }
+
+效果图
+![image](https://github.com/user-attachments/assets/e24e2f14-7496-4bb4-9811-77b99d608a2f)
+![image](https://github.com/user-attachments/assets/aa1b58e5-a486-4288-af65-755561033f9c)
+![image](https://github.com/user-attachments/assets/af81464c-bf27-4ff8-b6e7-3f2aa84601c3)
+![image](https://github.com/user-attachments/assets/506e889e-e3a2-44d3-8775-f2fe9f541cba)
+![image](https://github.com/user-attachments/assets/af3e26c0-1d9a-4947-93f5-3a86d1a96637)
+
+
